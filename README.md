@@ -1,8 +1,8 @@
-# JnanaSetu
+# GnanaSetu
 
 ## Overview
 
-The JnanaSetu is a Retrieval-Augmented Generation (RAG) system designed to provide intelligent, contextual responses to questions about ancient Hindu and Sanskrit religious texts. This application leverages LLM technology via Groq, along with vector embeddings and retrieval mechanisms to enable accurate and insightful conversations about texts such as the Mahabharata, Ramayana, Bhagavad Gita, Upanishads, Vedas, and Puranas.
+The GnanaSetu is a Retrieval-Augmented Generation (RAG) system designed to provide intelligent, contextual responses to questions about ancient Hindu and Sanskrit religious texts. This application leverages LLM technology via Groq, along with vector embeddings and retrieval mechanisms to enable accurate and insightful conversations about texts such as the Mahabharata, Ramayana, Bhagavad Gita, Upanishads, Vedas, and Puranas.
 
 ## Features
 
